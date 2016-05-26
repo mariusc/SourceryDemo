@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "3.4.0"
+github "MrAlek/PagedArray" "0.3.1"
+github "nodes-ios/Serializable" "0.10.0"
+github "nodes-ios/Sourcery" "0.1.0"
