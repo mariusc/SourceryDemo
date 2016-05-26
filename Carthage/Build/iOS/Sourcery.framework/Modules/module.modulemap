@@ -1,0 +1,3 @@
+framework module Sourcery {
+    header "Sourcery-Swift.h"
+}
